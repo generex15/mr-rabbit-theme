@@ -1,0 +1,21 @@
+{
+  "name": "mr-rabbit-theme",
+  "displayName": "mr-rabbit-theme",
+  "description": "",
+  "version": "0.0.1",
+  "engines": {
+    "vscode": "^1.73.0"
+  },
+  "categories": [
+    "Themes"
+  ],
+  "contributes": {
+    "themes": [
+      {
+        "label": "mr rabbit theme ",
+        "uiTheme": "vs-dark",
+        "path": "./themes/mr rabbit theme -color-theme.json"
+      }
+    ]
+  }
+}
